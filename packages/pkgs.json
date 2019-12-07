@@ -1,0 +1,47 @@
+[
+ {
+  "path": "/packages/iot/webclient", 
+  "ver": "v2.1.1", 
+  "name": "WEBCLIENT"
+ }, 
+ {
+  "path": "/packages/iot/netutils", 
+  "ver": "v1.1.0", 
+  "name": "NETUTILS"
+ }, 
+ {
+  "path": "/packages/security/mbedtls", 
+  "ver": "v2.7.10", 
+  "name": "MBEDTLS"
+ }, 
+ {
+  "path": "/packages/tools/EasyFlash", 
+  "ver": "v4.0.0", 
+  "name": "EASYFLASH"
+ }, 
+ {
+  "path": "/packages/tools/qrcode", 
+  "ver": "latest", 
+  "name": "QRCODE"
+ }, 
+ {
+  "path": "/packages/system/fal", 
+  "ver": "latest", 
+  "name": "FAL"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/aht10", 
+  "ver": "latest", 
+  "name": "AHT10"
+ }, 
+ {
+  "path": "/packages/peripherals/sensors/ap3216c", 
+  "ver": "latest", 
+  "name": "AP3216C"
+ }, 
+ {
+  "path": "/packages/peripherals/infrared", 
+  "ver": "latest", 
+  "name": "INFRARED"
+ }
+]
