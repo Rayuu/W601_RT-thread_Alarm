@@ -39,7 +39,7 @@ RTE/
 settings/
 *.uvguix*
 cconfig.h
-#Bin/
+Bin/
 *.scvd
 *.uvguix.*
 applications/https_get_wechat.h
